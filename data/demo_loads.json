@@ -1,0 +1,9 @@
+{
+  "fleet": "Roadrunner Demo Fleet",
+  "disclaimer": "Fictional loads and simulated broker policies",
+  "loads": [
+    {"id":"LD-1048","broker":"Summit Freight","facility":"North River Foods","arrival":"2026-10-20T08:05:00","departure":"2026-10-20T12:35:00","freeMinutes":120,"ratePerHour":75,"minimumMinutes":60,"bol":true,"rateCon":true,"gps":true,"status":"ready"},
+    {"id":"LD-1051","broker":"Atlas Brokerage","facility":"Metro Cold Storage","arrival":"2026-10-21T13:20:00","departure":"2026-10-21T16:05:00","freeMinutes":120,"ratePerHour":60,"minimumMinutes":60,"bol":true,"rateCon":false,"gps":true,"status":"needs-doc"},
+    {"id":"LD-1057","broker":"Blue Mile Logistics","facility":"Oakline Packaging","arrival":"2026-10-22T06:40:00","departure":"2026-10-22T10:55:00","freeMinutes":90,"ratePerHour":80,"minimumMinutes":30,"bol":true,"rateCon":true,"gps":true,"status":"ready"}
+  ]
+}
